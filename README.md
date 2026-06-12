@@ -1,4 +1,4 @@
-# 🏏 Rajasthan Royals — IPL 2026 Data-Driven Auction Strategy
+# Rajasthan Royals — IPL 2026 Data-Driven Auction Strategy
 ### SupeRR Selector Hackathon Submission | Mann Sutariya
 
 [![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
@@ -8,7 +8,7 @@
 
 ---
 
-## 📌 Overview
+## Overview
 
 This repository contains my end-to-end data science submission for the **SupeRR Selector Hackathon** organized by Rajasthan Royals (RR), spanning two rounds:
 
@@ -21,7 +21,7 @@ This repository contains my end-to-end data science submission for the **SupeRR 
 
 ---
 
-## 🗂️ Repository Structure
+## Repository Structure
 
 ```
 RR-IPL-Auction-Strategy/
@@ -80,7 +80,7 @@ RR-IPL-Auction-Strategy/
 
 ---
 
-## 🏆 Round 1 — IPL 2026 Auction Strategy
+## Round 1 — IPL 2026 Auction Strategy
 
 ### Problem
 Design a data-driven auction strategy for RR under the following hard constraints:
@@ -144,7 +144,7 @@ Back-tested against IPL 2024 auction outcomes — **76% overall accuracy**, with
 
 ---
 
-## 🔬 Round 2 — Uncapped-to-Capped Prediction Model
+## Round 2 — Uncapped-to-Capped Prediction Model
 
 ### Problem
 From a pool of 5,484 players across domestic and T20 competitions, identify the **Top-40 uncapped players** most likely to earn an India cap, and estimate **when** they are likely to be capped.
@@ -231,7 +231,7 @@ All diagnostic plots are included in `Round-2/code/`:
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 | Category | Tools |
 |----------|-------|
@@ -245,13 +245,13 @@ All diagnostic plots are included in `Round-2/code/`:
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 > **Note:** Raw data files are not included. You need access to the hackathon dataset (`compressed_files.zip`) to run the full pipeline.
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/RR-IPL-Auction-Strategy.git
+git clone https://github.com/PureGenius369/RajasthanRoyals-IPL-Auction-Strategy.git
 cd RR-IPL-Auction-Strategy
 
 # Install dependencies (Round 1)
@@ -279,23 +279,21 @@ python rr_predicted_cap_year.py
 
 ---
 
-## 📄 Documents
+## Documents
 
-- 📘 [Round 1 — Auction Strategy (PDF)](Round-1/Round1_RR_IPL_2026_Auction_Strategy_Final.pdf)
-- 📗 [Round 2 — Uncapped Player Prediction (PDF)](Round-2/Round2_RR_Hackathon_Final.pdf)
+- [Round 1 — Auction Strategy (PDF)](Round-1/Data Analysis for Rajasthan Royals IPL 2026 Auction Strategy Final.pdf)
+- [Round 2 — Uncapped Player Prediction (PDF)](Round-2/ML model for Uncapped_to_Capped .pdf)
 
 ---
 
-## 👤 Author
+## Author
 
 **Mann Sutariya**
-📧 mannsutaria2605@gmail.com
-📱 +91 7984342097
-📅 November 2025
+ mannsutaria2605@gmail.com
 
 ---
 
-## 📜 License
+## License
 
 This project is open-sourced under the [MIT License](LICENSE).
 
