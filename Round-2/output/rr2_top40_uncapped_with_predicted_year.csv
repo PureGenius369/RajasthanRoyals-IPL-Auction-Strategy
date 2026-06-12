@@ -1,0 +1,41 @@
+player_id,player_name,final_cap_prob,predicted_cap_year,career_role_guess,career_age_years,career_matches_played,runs_slope,wk_slope
+5680,R Sonu Yadav,0.760138173,2027,finishing allrounder,26.04,49,16.2,-0.6
+3451,Baba Indrajith,0.750302908,2027,top/middle,31.39,50,45.3,
+20802,Abdul Basith,0.725789094,2027,finishing allrounder,27.13,45,80.4,1.5
+4486,BR Sharath,0.72157411,2027,top/middle,29.16,43,65.3,
+6494,Manoj Bhandage,0.717852787,2030,finishing allrounder,27.14,43,-54.1,1.5
+6526,Himmat Singh,0.717195852,2026,top/middle,29.05,41,94.3,5
+3281,Mosaddek Hossain,0.71638879,2029,finishing allrounder,29.96,48,-11.2,0.2
+43774,Shivam Singh,0.715966739,2027,top/middle,30.01,29,86.6,
+20023,Karan Sharma,0.713222023,2027,opener,27.07,47,91.1,1.1
+6321,Shubhang Hegde,0.712809675,2028,finishing allrounder,24.66,50,3.7,0.7
+4077,KL Shrijith,0.712667844,2029,top/middle,29.29,53,7.3,
+2790,Praveen Dubey,0.609833926,2029,finishing allrounder,32.41,38,42.68571429,1
+5659,Abhishek Tanwar,0.605535788,2030,finishing allrounder,34.11,40,-13.1,0.3
+5769,Codanda Karthik,0.605530105,2030,batting allrounder,32.13,36,9.8,-2.5
+6237,Manimaran Siddharth,0.587961527,2030,finishing allrounder,27.4,51,-0.2,-1.5
+20327,Usman Khan,0.562873366,2030,top/middle,30.55,37,19,
+2218,Anamul Haque,0.556524635,2030,top/middle,32.94,50,12,
+6643,Hasan Mahmud,0.532363884,2030,finishing allrounder,28.79,54,10,4
+7696,Mohammad Wasim,0.507229179,2030,finishing allrounder,24.25,36,6.3,1.1
+2257,Chirag Jani,0.504502524,2030,finishing allrounder,36.05,39,15.3,3
+5882,Afif Hossain,0.503765758,2030,top/middle,26.18,77,-8.5,-8.78E-18
+6452,Harsh Tyagi,0.503583379,2030,batting allrounder,25.9,43,29,3.2
+27970,Gurnoor Singh,0.502267515,2028,finishing allrounder,25.51,24,14,14
+6554,Salman Nizar,0.50189471,2030,top/middle,28.41,44,113.4285714,
+4325,Ashwin Hebbar,0.501455288,2030,opener,30.03,31,96.3,
+45989,Swastik Chikara,0.500953977,2030,opener,25.9,36,-49.5,0
+6463,Shiva Singh,0.500871027,2030,finishing allrounder,26.11,41,23.8,1.2
+20020,Abhishek Goswami,0.500519066,2030,opener,28.05,34,-132.5,
+7721,NS Harish,0.500231284,2030,finishing allrounder,27.79,35,25,-1.4
+5957,Rohan Kunnummal,0.500222547,2030,opener,27.55,41,150.7,
+4747,Mohammed Azharuddeen,0.500077693,2030,top/middle,31.68,36,57.8,
+19700,Prince Yadav,0.50006294,2030,finishing allrounder,27.9,34,-80.5,4.5
+7134,Luvnith Sisodia,0.500036033,2030,opener,25.86,44,-54.4,
+4543,Jagatheesan Kousik,0.500032518,2030,batting allrounder,30.51,37,12.4,-3.2
+4783,Zakir Hasan,0.500013706,2030,top/middle,27.82,43,99,
+2862,Sachin Baby,0.499009769,2030,batting allrounder,36.94,45,109.5,0.628571429
+6971,Saravana Kumar P,0.498806532,2030,finishing allrounder,36.25,37,-10.4,-0.7
+1600,Benny Howell,0.45830238,2030,finishing allrounder,37.14,23,11,3.5
+2213,Soumya Sarkar,0.425457531,2030,top/middle,32.75,53,27.1,0.1
+4056,Ritesh Bhatkal,0.425143575,2030,finishing allrounder,32.53,34,-14.57142857,-0.285714286
